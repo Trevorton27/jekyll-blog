@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Trevor Mearns
 My name is Trevor Mearns. It's an unusual name and one that has generally set me apart.
 You can use the [editor on GitHub](https://github.com/Trevorton27/jekyll-blog/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
